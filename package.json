@@ -1,0 +1,23 @@
+{
+  "name": "line-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.ts",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazuki-komori/DU_outlook_Manager.git"
+  },
+  "author": "kazuki-komori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kazuki-komori/DU_outlook_Manager/issues"
+  },
+  "homepage": "https://github.com/kazuki-komori/DU_outlook_Manager#readme",
+  "dependencies": {
+    "@types/dotenv": "^8.2.0",
+    "dotenv": "^8.2.0"
+  }
+}
